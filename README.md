@@ -23,7 +23,6 @@ Skills
 #### Additional
 <div align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36"/></a></div>
 
-
 ## Contacts
 
 <div align="left">
@@ -32,6 +31,7 @@ Skills
     <a href="https://t.me/RomanMid" height="32" width="32" target="_blank" rel="noopener noreferrer"><img align="center" src="https://www.svgrepo.com/show/343522/telegram-communication-chat-interaction-network-connection.svg" alt="https://t.me/RomanMid" height="32" width="32" /></a>
 </div>
 
+## Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-mid&hide_border=false&layout=compact&bg_color=00000000" align="center" />
