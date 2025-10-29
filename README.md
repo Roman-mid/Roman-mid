@@ -36,7 +36,7 @@ Skills
   <a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width: 100%;"></a>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/roman-mid" height="36" width="36" target="_blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="https://www.linkedin.com/in/roman-mid/" height="36" width="36" /></a>
+<a href="https://www.linkedin.com/in/roman-mid" height="36" width="36" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" alt="https://www.linkedin.com/in/roman-mid/" height="36" width="36" /></a>
 </p>
 
 
