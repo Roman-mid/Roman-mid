@@ -21,7 +21,10 @@ Skills
 
 
 #### Additional
-<div align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36"/></a></div>
+<div align="left"><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36"/></a><a target="_blank" rel="noopener noreferrer" href=""><img width="12" style="max-width:100%;"></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://kwail.vercel.app/assets/prisma-0f96b4b5.png" alt="Git" title="Git" width="36" height="36"/></a>
+</div>
+
 
 <!--
 ## Contacts
@@ -37,7 +40,7 @@ Skills
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-mid&hide_border=false&layout=compact&bg_color=00000000" align="center" />
 </div>
 
-
+<br></br>
 
 <!-- ### Badges
 
